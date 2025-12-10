@@ -2,7 +2,7 @@
 
 ## Checkpoint 1
 
-For this project, we chose to analyze a [mushroom classification dataset](https://www.kaggle.com/datasets/uciml/mushroom-classification/data).
+For this project, we chose to analyze a [Video Game Sales Dataset](https://www.kaggle.com/datasets/gregorut/videogamesales).
 
 Motivations:
 * Allows us to help foragers avoid making lethal mistakes and recognize non-poisonous mushrooms
